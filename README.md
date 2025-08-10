@@ -130,7 +130,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## �� Contact
 - **Author**: [SeifMagdy]
 - **Email**: [seifmagdyyoussef@gmail.com]
-- **GitHub**: [@SeifMagdy66]
+- **GitHub**: [[@SeifMagdy66](https://github.com/SeifMagdy66)]
 
 ---
 ⭐ **Star this repository if you find it helpful!**
