@@ -128,9 +128,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Scikit-learn and Streamlit communities
 
 ## �� Contact
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername]
+- **Author**: [SeifMagdy]
+- **Email**: [seifmagdyyoussef@gmail.com]
+- **GitHub**: [[@SeifMagdy66](https://github.com/SeifMagdy66)]
 
 ---
 ⭐ **Star this repository if you find it helpful!**
